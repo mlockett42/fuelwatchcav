@@ -10,7 +10,6 @@ def start():
     callbacks.initialise_global_callbacks()
     timeouts.initialise_timeout_callbacks()
     ajaxget.initialise_ajaxget_callbacks()
-    codemirror.initialise_codemirror_callbacks()
     body = js.globals.document.body
 
     error_404_page = c("div", [c("p", "No match 404 error"),
