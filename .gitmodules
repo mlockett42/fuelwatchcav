@@ -1,0 +1,3 @@
+[submodule "pypyjs-release/pypyjs-release-nojit"]
+	path = pypyjs-release/pypyjs-release-nojit
+	url = https://github.com/pypyjs/pypyjs-release-nojit.git
